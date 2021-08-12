@@ -1,0 +1,141 @@
+!SESSION 2021-07-08 11:43:43.510 -----------------------------------------------
+eclipse.buildId=Version 1.6.1
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-07-08 11:44:25.044
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-07-08 11:44:25.079
+!MESSAGE Log4j initialized with config file /home/m2mueller/dev/astg/telemetry_right_chip/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-07-08 11:44:27.225
+!MESSAGE Started RMI Server, listening on port 41339
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-07-08 11:44:27.678
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-08 11:47:11.238
+!MESSAGE Indexed 'migrated_sx1278_test' (19 sources, 78 headers) in 1.59 sec: 3,658 declarations; 13,171 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.012%)
+!SESSION 2021-07-08 16:07:07.880 -----------------------------------------------
+eclipse.buildId=Version 1.6.1
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-07-08 16:07:13.440
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-07-08 16:07:13.478
+!MESSAGE Log4j initialized with config file /home/m2mueller/dev/astg/telemetry_right_chip/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-07-08 16:07:17.133
+!MESSAGE Started RMI Server, listening on port 41339
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-07-08 16:07:17.602
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-08 16:30:42.187
+!MESSAGE Indexed 'migrated_sx1278_test' (23 sources, 105 headers) in 1.07 sec: 7,966 declarations; 29,057 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.51%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-08 16:52:54.037
+!MESSAGE Indexed 'migrated_sx1278_test' (23 sources, 105 headers) in 0.898 sec: 7,967 declarations; 29,161 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.5%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-08 16:56:24.907
+!MESSAGE Indexed 'migrated_sx1278_test' (23 sources, 105 headers) in 0.809 sec: 7,967 declarations; 29,161 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.5%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-07-08 16:56:41.015
+!MESSAGE Indexed 'migrated_sx1278_test' (23 sources, 105 headers) in 0.76 sec: 7,967 declarations; 29,161 references; 2 unresolved inclusions; 36 syntax errors; 188 unresolved names (0.5%)
+!SESSION 2021-07-08 17:03:18.754 -----------------------------------------------
+eclipse.buildId=Version 1.6.1
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-07-08 17:03:23.891
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-07-08 17:03:23.934
+!MESSAGE Log4j initialized with config file /home/m2mueller/dev/astg/telemetry_right_chip/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-07-08 17:03:28.228
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-07-08 17:03:28.743
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+!SESSION 2021-07-09 09:08:47.962 -----------------------------------------------
+eclipse.buildId=Version 1.6.1
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-07-09 09:09:12.403
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-07-09 09:09:12.454
+!MESSAGE Log4j initialized with config file /home/m2mueller/dev/astg/telemetry_right_chip/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-07-09 09:09:15.655
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-07-09 09:09:16.135
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+!SESSION 2021-07-22 12:40:55.526 -----------------------------------------------
+eclipse.buildId=Version 1.6.1
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-07-22 12:42:34.369
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-07-22 12:42:34.412
+!MESSAGE Log4j initialized with config file /home/m2mueller/dev/astg/telemetry_right_chip/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-07-22 12:42:40.517
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-07-22 12:42:40.976
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+!SESSION 2021-08-05 14:10:05.052 -----------------------------------------------
+eclipse.buildId=Version 1.6.1
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-08-05 14:10:10.843
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-08-05 14:10:10.884
+!MESSAGE Log4j initialized with config file /home/m2mueller/dev/astg/telemetry_right_chip/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-08-05 14:10:14.738
+!MESSAGE Started RMI Server, listening on port 41338
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-08-05 14:10:15.248
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+!SESSION 2021-08-12 13:15:49.212 -----------------------------------------------
+eclipse.buildId=Version 1.6.1
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2021-08-12 13:18:51.718
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2021-08-12 13:18:51.760
+!MESSAGE Log4j initialized with config file /home/m2mueller/dev/astg/telemetry_right_chip/.metadata/.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2021-08-12 13:18:54.958
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2021-08-12 13:18:55.429
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
